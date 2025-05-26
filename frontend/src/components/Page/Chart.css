@@ -1,0 +1,10 @@
+/* Chart.css */
+.chart {
+  width: 100%;
+  max-width: 500px;
+}
+
+.chart img {
+  width: 100%;
+  border-radius: 10px;
+}
