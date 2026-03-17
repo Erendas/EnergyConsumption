@@ -14,10 +14,10 @@
  
 ## Installation
  1) Clone the repository
-  git clone "link"
+    git clone "link"
  2) Go into the project folder
-  cd "file_name"
+    cd "file_name"
  3) Install dependencies
-  npm install
+    npm install
  4) Start development server
-  npm run dev
+    npm run dev
