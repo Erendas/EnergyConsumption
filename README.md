@@ -14,9 +14,9 @@
  
 ## Installation
  1) Clone the repository
-  git clone https://github.com/your-username/novashop-frontend.git
+  git clone "link"
  2) Go into the project folder
-  cd novashop-frontend
+  cd "file_name"
  3) Install dependencies
   npm install
  4) Start development server
