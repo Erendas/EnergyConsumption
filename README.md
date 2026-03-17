@@ -12,11 +12,11 @@
   Support renewable integration (solar/wind balancing).
  
 ## Installation
- 1) Clone the repository
+ 1) Clone the repository:
     git clone "link"
- 2) Go into the project folder
+ 2) Go into the project folder:
     cd "file_name"
- 3) Install dependencies
+ 3) Install dependencies:
     npm install
- 4) Start development server
+ 4) Start development server:
     npm run dev
